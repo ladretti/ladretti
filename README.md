@@ -14,9 +14,9 @@ Passionné par le développement logiciel et web, je suis toujours curieux d'app
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ladretti&show_icons=true&theme=tokyonight&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ladretti&show_icons=true&theme=tokyonight)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ladretti&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ladretti&layout=compact&theme=tokyonight)
 
   
 </div>
@@ -35,6 +35,7 @@ Passionné par le développement logiciel et web, je suis toujours curieux d'app
 
 ### Frameworks & Bibliothèques
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
