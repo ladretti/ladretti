@@ -4,7 +4,7 @@
 
 ## 🚀 À propos de moi
 
-Je suis **Irwin LADRETTE**, 21 ans, étudiant en première année à l'école d'ingénieurs **IMT Mines Alès**. 
+Je suis **Irwin LADRETTE**, 23 ans, étudiant en première année à l'école d'ingénieurs **IMT Mines Alès**. 
 
 Passionné par le développement logiciel et web, je suis toujours curieux d'apprendre de nouvelles technologies et de relever des défis techniques !
 
